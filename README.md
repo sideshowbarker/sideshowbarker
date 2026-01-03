@@ -1,0 +1,1 @@
+[Nu Html Checker](https://github.com/validator/validator) (W3C Validator) maintainer; WebKit/Ladybird/Firefox/FOSS contributor. More info on my [GitHub Sponsors page](https://github.com/sponsors/sideshowbarker).
