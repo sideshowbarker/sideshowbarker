@@ -1,0 +1,4 @@
+- I try to spend some of my time working on stuff that’s at least marginally useful to a few other developers in the world.
+- If you happen to value anything I’ve done enough to feel like visiting my [GitHub Sponsors page](https://github.com/sponsors/sideshowbarker) — then, hey, go do that!
+- Otherwise, thanks for having taken a moment to look here — and, you keep on building stuff for other developers too!
+- **I am an existence proof that you don’t have to be a “10X engineer” to occasionally get useful things done for others.**
